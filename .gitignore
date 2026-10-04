@@ -1,0 +1,9 @@
+
+# Too large for GitHub (kept locally / in the Canvas zip)
+task3_gan/Kavya/checkpoints/full/latest_checkpoint.pt
+task3_gan/Kavya/checkpoints/full/cyclegan_epoch_*.pt
+task3_gan/Kavya/generated_A2B_images.zip
+task3_gan/Kavya/outputs/kaggle_pred_A2B/
+# Raw dataset: download from the Kaggle competition (see README)
+task3_gan/data/monet_jpg/
+task3_gan/data/photo_jpg/
