@@ -1,9 +1,0 @@
-numpy
-pandas
-matplotlib
-Pillow
-scipy
-scikit-learn
-torchmetrics
-torch-fidelity
-lpips
